@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: space-evenly; */
+    /* float: left; */
+    justify-content: center;
+    /* margin: 0 auto; */
+}
+.link{
+    margin: 10px 50px;
+    text-decoration: none !important;
+}
